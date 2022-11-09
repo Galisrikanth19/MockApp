@@ -1,0 +1,6 @@
+framework module PTEventView {
+  umbrella header "PTEventView-umbrella.h"
+
+  export *
+  module * { export * }
+}
